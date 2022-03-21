@@ -514,6 +514,7 @@ body{
 .contects__inner{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .contects__box{
@@ -949,9 +950,6 @@ body{
     }
     .contects__guarantees{
         width: 100%;
-    }
-    .services__title{
-        font-size: 35px;
     }
 }
 
